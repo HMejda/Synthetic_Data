@@ -3,3 +3,4 @@ sdv
 pandas
 matplotlib
 seaborn
+huggingface_hub
